@@ -24,7 +24,8 @@ Prepare your data: Make sure you have the following CSV files:
 3. test.csv: The test data used for final evaluation.
 Run the model: Run the main.py script to train and evaluate the logistic regression model on your datasets
 
-## Results: The script will print the following performance metrics on the validation and test datasets:
+## Results: 
+The script will print the following performance metrics on the validation and test datasets
 Accuracy
 Precision, Recall, F1-score
 Confusion Matrix
